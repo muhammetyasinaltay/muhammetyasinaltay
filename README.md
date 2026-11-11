@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there, I'm Muhammet Yasin Altay! 👋
 
-<!--
-**muhammetyasinaltay/muhammetyasinaltay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const developer = {
+  code: ["JavaScript", "TypeScript", "Python", "C#", "SQL"],
+  technologies: {
+    frontend: ["React", "Next.js", "React Native", "Tailwind CSS"],
+    backend: ["Node.js", "NestJS", "Express.js", "REST", "GraphQL", "WebSockets"],
+    databases: ["PostgreSQL", "MySQL", "Redis"],
+    devops_tools: ["Docker", "Git", "Sentry", "OpenTelemetry"]
+  },
+  architecture: ["Distributed Systems", "API Engineering", "Real-time Apps"],
+  currentFocus: "Building scalable backend systems and high-performance applications."
+};
+🚀 What I'm Up To
+🔭 Building: High-performance backends, microservices, and interactive developer tools.
 
-Here are some ideas to get you started:
+⚡ Focusing on: System architecture, observable applications, and clean code practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack: TypeScript, NestJS, React, Docker, and Relational/NoSQL databases.
